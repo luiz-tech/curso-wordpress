@@ -1,0 +1,114 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Post 10 uagb block 5cef18f8 **/
+#post-10 .uagb-block-5cef18f8 {
+	padding: 0 !important;
+}
+
+/** Geral >> Wp admin bar wp mcr shortcut ab item **/
+#wp-admin-bar-wp-mcr-shortcut .ab-item {
+	
+}
+
+/** Geral >> Content ast container **/
+#content .ast-container {
+	width: 100% !important;
+	box-sizing: content-box !important;
+	padding-right: 0 !important;
+	padding-bottom: 0 !important;
+	padding-left: 0 !important;
+	margin-top: 0 !important;
+}
+
+/** Geral >> Post 13 uagb block 10a7ee7d **/
+#post-13 .uagb-block-10a7ee7d {
+	margin-right: 0 !important;
+	margin-left: 0 !important;
+}
+
+
+/*( < 1200 )*/
+@media (max-width: 1199.98px) {
+
+	/*= Geral ===================== */
+
+	/** Geral >> List item (#1) link **/
+	.ast-menu-shadow > li:nth-of-type(1) > a {
+	font-weight: 400 !important;
+	background-color: rgba(0, 0, 0, 0) !important;
+	height: 50px !important;
+}
+
+	/** Geral >> Post 18 uagb block 6d995a77 **/
+	#post-18 .uagb-block-6d995a77 {
+	padding: 0 -10px 0 0 !important;
+}
+
+	/** Geral >> Article (#1) link **/
+	.wp-block-uagb-post-grid > article:nth-of-type(1) > a {
+	height: 297PX !important;
+}
+
+	/** Geral >> Post 17 uagb post image position background **/
+	#post-17 .uagb-post__image-position-background {
+	height: 380PX !important;
+}
+
+	/** Geral >> Post 17 **/
+	#post-17 {
+	height: 900PX !important;
+}
+
+	/** Geral >> Article (#2) link **/
+	.wp-block-uagb-post-grid > article:nth-of-type(2) > a {
+	height: 380PX !important;
+}
+
+	/** Geral >> Post 13 **/
+	#post-13 {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+	/** Geral >> Content ast container **/
+	#content .ast-container {
+	padding-top: 0 !important;
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+	/** Geral >> Colophon ast builder grid row tablet full **/
+	#colophon .ast-builder-grid-row-tablet-full {
+	padding-top: 25px !important;
+}
+
+	/** Geral >> Post 13 uagb block 66d99e90 **/
+	#post-13 .uagb-block-66d99e90 {
+	margin-right: 0 !important;
+	margin-left: 0 !important;
+}
+
+	/** Geral >> Post 13 uagb block 10a7ee7d **/
+	#post-13 .uagb-block-10a7ee7d {
+	padding: 0 20px 0 20px !important;
+}
+
+	/** Geral >> Post 13 uagb block a21c64d6 **/
+	#post-13 .uagb-block-a21c64d6 {
+	padding-right: 10px !important;
+	margin-right: 0 !important;
+	margin-left: 0 !important;
+}
+
+	/** Geral >> Post 13 uagb block 698c8b04 **/
+	#post-13 .uagb-block-698c8b04 {
+	margin-right: 0 !important;
+	margin-left: 0 !important;
+}
+
+
+}
+
